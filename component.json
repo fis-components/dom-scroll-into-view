@@ -1,0 +1,8 @@
+{
+    "name": "dom-scroll-into-view",
+    "description": "scroll dom node into view automatically",
+    "repos": "https://github.com/git@github.com:yiminghe/dom-scroll-into-view.git",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.0.0"
+}
